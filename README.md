@@ -7,7 +7,3 @@ Tensorflow Implementation of Korean-BertSum(KoBertSum) model with tf.RaggedTenso
 1. Extractive BertSum
 
 - 문서 안에서 요약 문장 추출 모델 -> 문장 분류 모델
-
-2. Abstractive BertSum (추후 추가 예정)
-
-- 문서 요약문 생성 모델 -> 문장 생성 모델
